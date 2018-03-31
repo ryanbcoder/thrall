@@ -1,0 +1,14 @@
+{
+"packageDirectories": [
+  {
+    "path": "force-app",
+    "default": true,
+    "id": "0Ho7F0000008OJ8SAM",
+    "versionNumber": "1.1.0.NEXT",
+    "versionName": "Spring `18 (with new color)"
+  }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "42.0"
+}
