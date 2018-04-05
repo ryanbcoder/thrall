@@ -1,0 +1,394 @@
+[
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522922595478,
+            "changeTime": 1522922595478,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522922595478,
+            "changeTime": 1522922595478,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522932571087,
+            "changeTime": 1522932571087,
+            "contentHash": "4005ca28ae95ef5ceec3fe3231577ab664f5ef90",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522922595478,
+            "changeTime": 1522922595478,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522934636281,
+            "changeTime": 1522934636281,
+            "isWorkspace": false,
+            "contentHash": "03af2ec2075f030faa45bc82f980e0586f587003"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverter.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverter.cls",
+            "isDirectory": false,
+            "size": 246,
+            "modifiedTime": 1522923469318,
+            "changeTime": 1522923469318,
+            "contentHash": "dbe01baf15f660f40f316a166945eeb818122399",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverter.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverter.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1522923457653,
+            "changeTime": 1522923457653,
+            "contentHash": "a228ccfb497c678ef957fd609c87f1f85a7b9545",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverterTest.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverterTest.cls",
+            "isDirectory": false,
+            "size": 758,
+            "modifiedTime": 1522927441659,
+            "changeTime": 1522927441659,
+            "contentHash": "c0b0632ff724c898116706ad7f283d7706d36323",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverterTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TemperatureConverterTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1522923497188,
+            "changeTime": 1522923497188,
+            "contentHash": "54abafcfea49871e7b692a7897da656fc6cf25b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522932019690,
+            "changeTime": 1522932019690,
+            "contentHash": "c5bb3c776f04edfb3c987168bbb024f92bc4a26c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtil.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtil.cls",
+            "isDirectory": false,
+            "size": 419,
+            "modifiedTime": 1522928714718,
+            "changeTime": 1522928714718,
+            "contentHash": "1c8de7e751589445ab64ee8a7a0b55060e334884",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtil.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtil.cls-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1522927879888,
+            "changeTime": 1522927879888,
+            "contentHash": "192d565cdb69a5cdabb4267237c5db102b60a9a2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtilTest.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtilTest.cls",
+            "isDirectory": false,
+            "size": 495,
+            "modifiedTime": 1522928908401,
+            "changeTime": 1522928908403,
+            "contentHash": "72bf80359ea359c0c6fa6adf752f29aaee35e9a6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtilTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TaskUtilTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1522928414690,
+            "changeTime": 1522928414690,
+            "contentHash": "27a926ea135409324004bb1bc4f89519354f5b79",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\testSuites\\TempConverterTaskUtilSuite.testSuite-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\testSuites\\TempConverterTaskUtilSuite.testSuite-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1522929324241,
+            "changeTime": 1522929324241,
+            "contentHash": "53bffa4e050a925b9258ea2660f74ce101ec6ccb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\testSuites",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\testSuites",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522929324240,
+            "changeTime": 1522929324240,
+            "contentHash": "5ff06d40b697fdeaf01881c5a9072c43191970f8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestVerifyDate.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestVerifyDate.cls",
+            "isDirectory": false,
+            "size": 1679,
+            "modifiedTime": 1522931942321,
+            "changeTime": 1522931942321,
+            "contentHash": "e0aa892b9567fa9c06790061e85fe968fe569e86",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestVerifyDate.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestVerifyDate.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1522930375769,
+            "changeTime": 1522930375769,
+            "contentHash": "e20685bf114b943ca87f902f25fd0318f7309831",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\VerifyDate.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\VerifyDate.cls",
+            "isDirectory": false,
+            "size": 1165,
+            "modifiedTime": 1522931641106,
+            "changeTime": 1522931641107,
+            "contentHash": "df2695144eba0065d8bea03ac6f70ac511a2f730",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\VerifyDate.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\VerifyDate.cls-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1522929923340,
+            "changeTime": 1522929923340,
+            "contentHash": "f0f60c8f09ed9564ca11fac320c61cb5a4dd4c0b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522934469431,
+            "changeTime": 1522934469431,
+            "contentHash": "1f95162e638dbf2058bb663b9f48f38c70397497",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\AccountDeletion.trigger",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\AccountDeletion.trigger",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1522934106939,
+            "changeTime": 1522934106939,
+            "contentHash": "2d0f98ed9805fa6b9b9d781287f40bb5f7d951f3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\AccountDeletion.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\AccountDeletion.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1522932586459,
+            "changeTime": 1522932586459,
+            "contentHash": "cf4931fcdf7d2f191862e841ff0bb7e371376a5e",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls",
+            "isDirectory": false,
+            "size": 1031,
+            "modifiedTime": 1522934289971,
+            "changeTime": 1522934289971,
+            "contentHash": "768e64c847aba7531425c9c20f8f2c973e91b546",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1522933600528,
+            "changeTime": 1522933600528,
+            "contentHash": "908d5843f78053b73baa177a515f3d33b1b61c88",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\RestrictContactByName.trigger",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\RestrictContactByName.trigger",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1522934596751,
+            "changeTime": 1522934596751,
+            "contentHash": "e8c933f29ca6101f30c8994a887f767791d34cb6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\RestrictContactByName.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\RestrictContactByName.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1522934469431,
+            "changeTime": 1522934469431,
+            "contentHash": "14f025607dbf38dcad006e2937c929bd9b346a88",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 568,
+            "modifiedTime": 1522935485243,
+            "changeTime": 1522935485243,
+            "contentHash": "848dfcfc26bff1864236086925408227548cc781"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1522934636282,
+            "changeTime": 1522934636282,
+            "contentHash": "1e3ea94f4fd3adbdac6353bb2108b741710c895d"
+        }
+    ]
+]

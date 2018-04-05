@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>TaskUtil</members>
+    <members>TaskUtilTest</members>
+    <members>TemperatureConverter</members>
+    <members>TemperatureConverterTest</members>
+    <members>TestAccountDeletion</members>
+    <members>TestRestrictContactByName</members>
+    <members>TestVerifyDate</members>
+    <members>VerifyDate</members>
+  </types>
+  <types>
+    <name>ApexTestSuite</name>
+    <members>TempConverterTaskUtilSuite</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>AccountDeletion</members>
+    <members>RestrictContactByName</members>
+  </types>
+  <version>42.0</version>
+</Package>
