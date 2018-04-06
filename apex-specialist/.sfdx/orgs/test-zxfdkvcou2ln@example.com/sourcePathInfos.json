@@ -60,15 +60,15 @@
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
         {
+            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1523006445783,
-            "changeTime": 1523006445783,
-            "contentHash": "4b0736b260efd2d16f50ddb18ef426dacf0e60cb",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 0,
+            "modifiedTime": 1523018871523,
+            "changeTime": 1523018871523,
+            "isWorkspace": false,
+            "contentHash": "a5dc236b12464fa4bcfb39bd763124458b1363cb"
         }
     ],
     [
@@ -316,14 +316,14 @@
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3105,
             "modifiedTime": 1523018734867,
             "changeTime": 1523018734867,
-            "contentHash": "84b9ad71bf9302352cf1c00d8b2bfbda84d84b57"
+            "contentHash": "84b9ad71bf9302352cf1c00d8b2bfbda84d84b57",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -415,6 +415,32 @@
             "contentHash": "5b1ac4c4d18dc22da1138069cf5f4061ce3dd86c",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1523019725393,
+            "changeTime": 1523019725393,
+            "contentHash": "3adf14e12c055bbfef1cab6087de7d7e6956eb14"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1523018871524,
+            "changeTime": 1523018871524,
+            "contentHash": "880fa8625a6517138d9cddd85475c6d56d244f37"
         }
     ]
 ]
