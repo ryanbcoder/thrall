@@ -60,15 +60,15 @@
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1522934636281,
-            "changeTime": 1522934636281,
-            "isWorkspace": false,
-            "contentHash": "03af2ec2075f030faa45bc82f980e0586f587003"
+            "modifiedTime": 1523006445783,
+            "changeTime": 1523006445783,
+            "contentHash": "4b0736b260efd2d16f50ddb18ef426dacf0e60cb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -316,14 +316,14 @@
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls",
         {
+            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestAccountDeletion.cls",
             "isDirectory": false,
-            "size": 1031,
-            "modifiedTime": 1522934289971,
-            "changeTime": 1522934289971,
-            "contentHash": "768e64c847aba7531425c9c20f8f2c973e91b546",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 3105,
+            "modifiedTime": 1523018734867,
+            "changeTime": 1523018734867,
+            "contentHash": "84b9ad71bf9302352cf1c00d8b2bfbda84d84b57"
         }
     ],
     [
@@ -368,27 +368,53 @@
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 568,
             "modifiedTime": 1522935485243,
             "changeTime": 1522935485243,
-            "contentHash": "848dfcfc26bff1864236086925408227548cc781"
+            "contentHash": "848dfcfc26bff1864236086925408227548cc781",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestRestrictContactByName.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
             "modifiedTime": 1522934636282,
             "changeTime": 1522934636282,
-            "contentHash": "1e3ea94f4fd3adbdac6353bb2108b741710c895d"
+            "contentHash": "1e3ea94f4fd3adbdac6353bb2108b741710c895d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestDataFactory.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestDataFactory.cls",
+            "isDirectory": false,
+            "size": 1062,
+            "modifiedTime": 1523006849652,
+            "changeTime": 1523006849653,
+            "contentHash": "8b893562089fd620c99d9518f8f8bee02d5edff4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestDataFactory.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\TestDataFactory.cls-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1523006445784,
+            "changeTime": 1523006445784,
+            "contentHash": "5b1ac4c4d18dc22da1138069cf5f4061ce3dd86c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
