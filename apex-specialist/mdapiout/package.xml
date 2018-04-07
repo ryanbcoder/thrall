@@ -2,7 +2,11 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
   <types>
     <name>ApexClass</name>
+    <members>OrderEventPETest</members>
+    <members>PlatformEventTest</members>
     <members>RandomContactFactory</members>
+    <members>SMSCalloutMock</members>
+    <members>SMSUtils</members>
     <members>TaskUtil</members>
     <members>TaskUtilTest</members>
     <members>TemperatureConverter</members>
@@ -11,7 +15,28 @@
     <members>TestDataFactory</members>
     <members>TestRestrictContactByName</members>
     <members>TestVerifyDate</members>
+    <members>Test_SMSUtils</members>
     <members>VerifyDate</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>Cloud_News__e</members>
+    <members>Order_Event__e</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>Cloud_News__e.Location__c</members>
+    <members>Cloud_News__e.News_Content__c</members>
+    <members>Cloud_News__e.Urgent__c</members>
+    <members>Order_Event__e.Has_Shipped__c</members>
+    <members>Order_Event__e.Order_Number__c</members>
+  </types>
+  <types>
+    <name>Profile</name>
+    <members>Admin</members>
+    <members>Custom%3A Marketing Profile</members>
+    <members>Custom%3A Sales Profile</members>
+    <members>Custom%3A Support Profile</members>
   </types>
   <types>
     <name>ApexTestSuite</name>
@@ -20,6 +45,8 @@
   <types>
     <name>ApexTrigger</name>
     <members>AccountDeletion</members>
+    <members>CloudNewsTrigger</members>
+    <members>OrderEventTrigger</members>
     <members>RestrictContactByName</members>
   </types>
   <version>42.0</version>

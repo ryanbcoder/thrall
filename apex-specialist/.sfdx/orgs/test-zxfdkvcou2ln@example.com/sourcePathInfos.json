@@ -5,8 +5,8 @@
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522922595478,
-            "changeTime": 1522922595478,
+            "modifiedTime": 1523098099752,
+            "changeTime": 1523098099752,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
             "state": "u",
@@ -35,11 +35,13 @@
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522932571087,
-            "changeTime": 1522932571087,
-            "contentHash": "4005ca28ae95ef5ceec3fe3231577ab664f5ef90",
+            "modifiedTime": 1523098646493,
+            "changeTime": 1523098646493,
+            "contentHash": "bc516f7dda85b0708b9b9e261ff9283a865c4639",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -60,15 +62,15 @@
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523018871523,
-            "changeTime": 1523018871523,
-            "isWorkspace": false,
-            "contentHash": "a5dc236b12464fa4bcfb39bd763124458b1363cb"
+            "modifiedTime": 1523102791530,
+            "changeTime": 1523102791530,
+            "contentHash": "b4c8b11949111f740a8167519c7bc950eea34fc8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -112,7 +114,8 @@
             "contentHash": "c0b0632ff724c898116706ad7f283d7706d36323",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -136,9 +139,9 @@
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522932019690,
-            "changeTime": 1522932019690,
-            "contentHash": "c5bb3c776f04edfb3c987168bbb024f92bc4a26c",
+            "modifiedTime": 1523098120961,
+            "changeTime": 1523098120961,
+            "contentHash": "b2ad6af37d74ead5d4289dc126cbb4670f81ff11",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": true
@@ -154,7 +157,9 @@
             "changeTime": 1522928714718,
             "contentHash": "1c8de7e751589445ab64ee8a7a0b55060e334884",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -167,7 +172,9 @@
             "changeTime": 1522927879888,
             "contentHash": "192d565cdb69a5cdabb4267237c5db102b60a9a2",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -180,7 +187,9 @@
             "changeTime": 1522928908403,
             "contentHash": "72bf80359ea359c0c6fa6adf752f29aaee35e9a6",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -193,7 +202,9 @@
             "changeTime": 1522928414690,
             "contentHash": "27a926ea135409324004bb1bc4f89519354f5b79",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -206,7 +217,9 @@
             "changeTime": 1522929324241,
             "contentHash": "53bffa4e050a925b9258ea2660f74ce101ec6ccb",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -219,7 +232,9 @@
             "changeTime": 1522929324240,
             "contentHash": "5ff06d40b697fdeaf01881c5a9072c43191970f8",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -232,7 +247,9 @@
             "changeTime": 1522931942321,
             "contentHash": "e0aa892b9567fa9c06790061e85fe968fe569e86",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -245,7 +262,9 @@
             "changeTime": 1522930375769,
             "contentHash": "e20685bf114b943ca87f902f25fd0318f7309831",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -258,7 +277,9 @@
             "changeTime": 1522931641107,
             "contentHash": "df2695144eba0065d8bea03ac6f70ac511a2f730",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -271,7 +292,9 @@
             "changeTime": 1522929923340,
             "contentHash": "f0f60c8f09ed9564ca11fac320c61cb5a4dd4c0b",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -280,9 +303,9 @@
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1522934469431,
-            "changeTime": 1522934469431,
-            "contentHash": "1f95162e638dbf2058bb663b9f48f38c70397497",
+            "modifiedTime": 1523102629869,
+            "changeTime": 1523102629869,
+            "contentHash": "1ba7006bba65071bd0d384297685ca343bb19932",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -297,7 +320,9 @@
             "changeTime": 1522934106939,
             "contentHash": "2d0f98ed9805fa6b9b9d781287f40bb5f7d951f3",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -310,7 +335,9 @@
             "changeTime": 1522932586459,
             "contentHash": "cf4931fcdf7d2f191862e841ff0bb7e371376a5e",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -323,7 +350,9 @@
             "changeTime": 1523018734867,
             "contentHash": "84b9ad71bf9302352cf1c00d8b2bfbda84d84b57",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -336,7 +365,9 @@
             "changeTime": 1522933600528,
             "contentHash": "908d5843f78053b73baa177a515f3d33b1b61c88",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -349,7 +380,9 @@
             "changeTime": 1522934596751,
             "contentHash": "e8c933f29ca6101f30c8994a887f767791d34cb6",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -362,7 +395,9 @@
             "changeTime": 1522934469431,
             "contentHash": "14f025607dbf38dcad006e2937c929bd9b346a88",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -375,7 +410,9 @@
             "changeTime": 1522935485243,
             "contentHash": "848dfcfc26bff1864236086925408227548cc781",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -388,7 +425,9 @@
             "changeTime": 1522934636282,
             "contentHash": "1e3ea94f4fd3adbdac6353bb2108b741710c895d",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -401,7 +440,9 @@
             "changeTime": 1523006849653,
             "contentHash": "8b893562089fd620c99d9518f8f8bee02d5edff4",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -414,33 +455,496 @@
             "changeTime": 1523006445784,
             "contentHash": "5b1ac4c4d18dc22da1138069cf5f4061ce3dd86c",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 374,
             "modifiedTime": 1523019725393,
             "changeTime": 1523019725393,
-            "contentHash": "3adf14e12c055bbfef1cab6087de7d7e6956eb14"
+            "contentHash": "3adf14e12c055bbfef1cab6087de7d7e6956eb14",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\RandomContactFactory.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1523018871524,
             "changeTime": 1523018871524,
-            "contentHash": "880fa8625a6517138d9cddd85475c6d56d244f37"
+            "contentHash": "880fa8625a6517138d9cddd85475c6d56d244f37",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSCalloutMock.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSCalloutMock.cls",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1523046264364,
+            "changeTime": 1523046264364,
+            "contentHash": "06db006aec731285dd4c38c37d4c40115a945dff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSCalloutMock.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSCalloutMock.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1523046254022,
+            "changeTime": 1523046254022,
+            "contentHash": "d8a2b0f26f8140d72742db0baef8ae0465604df4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSUtils.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSUtils.cls",
+            "isDirectory": false,
+            "size": 684,
+            "modifiedTime": 1523096853910,
+            "changeTime": 1523096853910,
+            "contentHash": "acceae3bfe6b72a52b91d0f19d78361990840581",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSUtils.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\SMSUtils.cls-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1523045711258,
+            "changeTime": 1523045711258,
+            "contentHash": "6218ce5ea178e6ca03dd45379a96ac009b438d99",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\Test_SMSUtils.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\Test_SMSUtils.cls",
+            "isDirectory": false,
+            "size": 479,
+            "modifiedTime": 1523096890665,
+            "changeTime": 1523096890665,
+            "contentHash": "ffe6ed7bd2c4fe7b1f7a4da07b4d880e54073e27",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\Test_SMSUtils.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\Test_SMSUtils.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1523046283475,
+            "changeTime": 1523046283475,
+            "contentHash": "ce8cc5fb8cbc807a942a1e969ec80568725199a4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\Cloud_News__e.object-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\Cloud_News__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1523098646481,
+            "changeTime": 1523098646481,
+            "contentHash": "4cee4b401630723ea5679b1bdcf7b06bf0afced8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 460,
+            "modifiedTime": 1523098646482,
+            "changeTime": 1523098646482,
+            "contentHash": "412d5b72e575804731624a73179f9451c3e1b724",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields\\News_Content__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields\\News_Content__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 455,
+            "modifiedTime": 1523098646483,
+            "changeTime": 1523098646483,
+            "contentHash": "b079c15b1b484573f7a56166c4c4ea44b8b5915a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields\\Urgent__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields\\Urgent__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1523098646485,
+            "changeTime": 1523098646485,
+            "contentHash": "bdfea38677ce47cc3bda5a83cf78795dac26442b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6869,
+            "modifiedTime": 1523100584324,
+            "changeTime": 1523100584324,
+            "contentHash": "7ed685ef2cce4e55541b2bca5e0fcff9d21e3e77",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 7207,
+            "modifiedTime": 1523100584341,
+            "changeTime": 1523100584341,
+            "contentHash": "d52f1f4a24deb2c519fb8dadb3823a355e6a4000",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 20584,
+            "modifiedTime": 1523100584364,
+            "changeTime": 1523100584364,
+            "contentHash": "2422aefc64766b5bffd5b8f4616a641296702e73",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 6869,
+            "modifiedTime": 1523100584372,
+            "changeTime": 1523100584372,
+            "contentHash": "7ed685ef2cce4e55541b2bca5e0fcff9d21e3e77",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523098646481,
+            "changeTime": 1523098646481,
+            "contentHash": "c9fdf832ebc38426ff29202642f58d0ec68eaa6a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523100584308,
+            "changeTime": 1523100584308,
+            "contentHash": "8fe9bfe440ddfbc62583dc055a7277a57f368535",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Cloud_News__e\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523098646484,
+            "changeTime": 1523098646484,
+            "contentHash": "86778937bf0e11a7db8535895cc0aab849b628de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523098646525,
+            "changeTime": 1523098646525,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\CloudNewsTrigger.trigger",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\CloudNewsTrigger.trigger",
+            "isDirectory": false,
+            "size": 750,
+            "modifiedTime": 1523098882449,
+            "changeTime": 1523098882449,
+            "contentHash": "1f72d7024bef840624ce597340cb03a646f5b8d9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\CloudNewsTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\CloudNewsTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1523098441004,
+            "changeTime": 1523098441004,
+            "contentHash": "e1299fd8393d104c76332e9eb6ad0ec3da6eed4e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\PlatformEventTest.cls",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\PlatformEventTest.cls",
+            "isDirectory": false,
+            "size": 88,
+            "modifiedTime": 1523099247540,
+            "changeTime": 1523099247540,
+            "contentHash": "6548b2cc26747317efa3c2b4823df671a031729a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\PlatformEventTest.cls-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\PlatformEventTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1523099247541,
+            "changeTime": 1523099247541,
+            "contentHash": "6a2867f8453e3ddb0cdd5504d3cac1725afaa262",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\Order_Event__e.object-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\Order_Event__e.object-meta.xml",
+            "isDirectory": false,
+            "size": 285,
+            "modifiedTime": 1523100584311,
+            "changeTime": 1523100584311,
+            "contentHash": "cda73f75efece7ed476a597f547e1638eff1189f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\fields\\Has_Shipped__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\fields\\Has_Shipped__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 426,
+            "modifiedTime": 1523100584312,
+            "changeTime": 1523100584312,
+            "contentHash": "0d6a0a2b89579aa49b7b73604fa950601f3ad8ae",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\fields\\Order_Number__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\fields\\Order_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1523100584313,
+            "changeTime": 1523100584313,
+            "contentHash": "5b57683200f0657b4979bda3fde98747e5a29f20",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523100584311,
+            "changeTime": 1523100584311,
+            "contentHash": "d07dd26ed21efcbb9ee5c7a2c17a8b0cc7d6b40a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\fields",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\objects\\Order_Event__e\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523100584312,
+            "changeTime": 1523100584312,
+            "contentHash": "6e8946474966b5d10f9f042ce3ac540270cb7dc2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\OrderEventTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\OrderEventTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1523102629868,
+            "changeTime": 1523102629868,
+            "contentHash": "11d1a6c6f3290c9f995ba98867a37b5a576fb6ce",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\OrderEventTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\triggers\\OrderEventTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 689,
+            "modifiedTime": 1523106476325,
+            "changeTime": 1523106476325,
+            "contentHash": "134680c1e7f40a1148eac30090ddce3eed0e6810"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\OrderEventPETest.cls",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\OrderEventPETest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 816,
+            "modifiedTime": 1523106476322,
+            "changeTime": 1523106476322,
+            "contentHash": "bf0390e9cecd4b9dbef92ed37616296f649b0f75"
+        }
+    ],
+    [
+        "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\OrderEventPETest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\d\\03-delivery\\sfdx-projects\\trails\\apex-specialist\\force-app\\main\\default\\classes\\OrderEventPETest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1523106476319,
+            "changeTime": 1523106476319,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
         }
     ]
 ]
