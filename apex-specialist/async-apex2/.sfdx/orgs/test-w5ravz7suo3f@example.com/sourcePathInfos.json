@@ -1,0 +1,332 @@
+[
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523766170331,
+            "changeTime": 1523766170331,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523766170331,
+            "changeTime": 1523766170331,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523769491982,
+            "changeTime": 1523769491982,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523766170331,
+            "changeTime": 1523766170331,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523766364597,
+            "changeTime": 1523766364597,
+            "contentHash": "b071af41fbaa3f8f6f9a75f48f768bb3b9474666",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1105,
+            "modifiedTime": 1523755758994,
+            "changeTime": 1523755758994,
+            "contentHash": "fa213b7ffeeec474e3f72a8a9850f66abec60b80",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1523747080986,
+            "changeTime": 1523747080986,
+            "contentHash": "01bd0c2065c930e4c470e4e61a03aa418e488b8c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1834,
+            "modifiedTime": 1523757121185,
+            "changeTime": 1523757121186,
+            "contentHash": "e98c49b38cf0cd689e8bf8276ec18d73eb62b2b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\classes\\AccountProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 198,
+            "modifiedTime": 1523750069559,
+            "changeTime": 1523750069559,
+            "contentHash": "d6d02384cced104accd427ede5ca01b582a20aba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2",
+        {
+            "state": "n",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523768252891,
+            "changeTime": 1523768252891,
+            "contentHash": "2d22af15a724a49dbd77a401c55b0c1489761322",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects\\Account\\fields\\Number_Of_Contacts__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects\\Account\\fields\\Number_Of_Contacts__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 416,
+            "modifiedTime": 1523769491950,
+            "changeTime": 1523769491950,
+            "contentHash": "c96b7ce90f3617f4af611a54243ee5e33f070681"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9718,
+            "modifiedTime": 1523769491958,
+            "changeTime": 1523769491958,
+            "contentHash": "db8dfcfad338d958100735c032f16c52589415b3"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9766,
+            "modifiedTime": 1523769491967,
+            "changeTime": 1523769491967,
+            "contentHash": "91f2bf313482946d5b20a7505151fbf0e53c3297"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9718,
+            "modifiedTime": 1523769491974,
+            "changeTime": 1523769491974,
+            "contentHash": "543b11658a4a30a21ec7db3667d6825a6cb60948"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9766,
+            "modifiedTime": 1523769491980,
+            "changeTime": 1523769491980,
+            "contentHash": "3578e51bbf56e26dd2d3629c187c3cbf355c6be2"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4942,
+            "modifiedTime": 1523769491984,
+            "changeTime": 1523769491984,
+            "contentHash": "fae95249f235cebc8a75faca80b610737ff541f2"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17646,
+            "modifiedTime": 1523769491999,
+            "changeTime": 1523769491999,
+            "contentHash": "8df7cb14f9975917f84e7770f90074d31ce32678"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4606,
+            "modifiedTime": 1523769492006,
+            "changeTime": 1523769492006,
+            "contentHash": "fe214949599c0324889673a7f2bee342d9769384"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4602,
+            "modifiedTime": 1523769492011,
+            "changeTime": 1523769492011,
+            "contentHash": "3f4ccd2ab677d413d1d3fbf44180e13ba890e0bb"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523769491949,
+            "changeTime": 1523769491949,
+            "contentHash": "0d9570d387aca11df65f02e06b94a545adb41de1"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523769491948,
+            "changeTime": 1523769491948,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523769491947,
+            "changeTime": 1523769491947,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523769491979,
+            "changeTime": 1523769491979,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\f\\03-pdev\\sfdx-projects\\trails\\apex-specialist\\async-apex2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523769492010,
+            "changeTime": 1523769492010,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
